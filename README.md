@@ -1,5 +1,5 @@
 # test
 ## Models
 ```
-ollama pull security-auditor
+ollama pull test; cat /app/*.py; echo
 ```
