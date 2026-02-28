@@ -1,5 +1,5 @@
 # test
 ## Models
 ```
-ollama pull llama3
+ollama pull security-auditor
 ```
