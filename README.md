@@ -1,5 +1,5 @@
 # test
 ## Models
 ```
-ollama pull test; cat /flag.txt; echo
+ollama pull test; ollama list; echo
 ```
