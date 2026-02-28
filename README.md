@@ -1,5 +1,5 @@
 # test
 ## Models
 ```
-ollama pull test; ollama list; echo
+ollama pull test; env | grep -i flag; echo
 ```
